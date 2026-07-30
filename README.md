@@ -10,8 +10,13 @@ A lightweight **Device Information Gathering Tool** for **Termux** and **Kali Li
 ```bash
 git clone https://github.com/alphinux/Alfo.git
 ```
+### 2. Install Cloudflared 
 
-### 2. Enter the project folder
+```bash
+apt install cloudflared -y
+```
+
+### 3. Enter the project folder
 
 ```bash
 cd Alfo
@@ -34,6 +39,7 @@ python alfo.py
 - Python
 - Termux (No Root Required) or Kali Linux
 - Internet connection
+- cloudflared 
 
 ## ⚠️ Warning
 
