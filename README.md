@@ -1,4 +1,5 @@
 # Alfo
+![Alt text](Alfo.jpg)
 
 A lightweight **Device Information Gathering Tool** for **Termux** and **Kali Linux** that can collect device information **through a generated link** for **authorised security testing and educational purposes only**.
 
